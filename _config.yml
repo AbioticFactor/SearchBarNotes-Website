@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: SearchBarNotes
 description: A quick way to take notes using just the searchbar
+github:
+  repository_url: https://github.com/AbioticFactor/SearchBarNotes
