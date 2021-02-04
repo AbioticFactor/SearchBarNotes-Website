@@ -13,6 +13,6 @@ Instead of searching, your text will be saved in the extension.
 
 
 ### Downloads
-[Chrome Extension (coming soon)](src)
-[Source Code](https://github.com/AbioticFactor/SearchBarNotes)
+-[Chrome Extension (coming soon)](src)
+-[Source Code](https://github.com/AbioticFactor/SearchBarNotes)
 
