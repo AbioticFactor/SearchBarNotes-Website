@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## What is SearchBarNotes?
+SearchBarNotes is a chrome extension that allows you to take notes by entering text into the standard searchbar.
 
-You can use the [editor on GitHub](https://github.com/AbioticFactor/SearchBarNotes-Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Instructions
 
-### Markdown
+All you have to do is:
+1. type "n"
+2. Hit the space bar
+3. Type in your note
+4. Press enter
+Instead of searching, your text will be saved in the extension.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Downloads
+[Chrome Extension (coming soon)](src)
+[Source Code](https://github.com/AbioticFactor/SearchBarNotes)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AbioticFactor/SearchBarNotes-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
